@@ -1,0 +1,13 @@
+.font_family {
+    font-family: "Helvetica Neue", sans-serif !important;
+    color: #5c5c5c;
+    line-height: 1.65;
+    text-align: justify;
+  }
+
+  .privacy_policy_link{
+
+    color: #5c5c5c;
+    text-decoration: none;
+
+  }
